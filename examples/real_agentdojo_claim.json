@@ -1,0 +1,10 @@
+{
+  "claim_id": "agentdojo-first-submission",
+  "text": "AgentDojo was first submitted on June 19, 2025.",
+  "subject": "AgentDojo",
+  "predicate": "first submission date",
+  "expected_value": "2025-06-19",
+  "answer_type": "DATE",
+  "evidence_pattern": "Submitted on\\s+(?P<value>\\d{1,2}\\s+[A-Za-z]+\\s+\\d{4})",
+  "cited_source_ids": []
+}

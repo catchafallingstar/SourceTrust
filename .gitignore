@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+*.pyc
+results/*
+!results/.gitkeep
+data/demo_runtime*/
+data/real/
